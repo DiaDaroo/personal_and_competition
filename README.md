@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22997742/README.md)
 ### [Классификация товаров по категориям](https://github.com/DiaDaroo/personal_and_competition/blob/main/Классификация_товаров.ipynb)
 
 **Цель:**
